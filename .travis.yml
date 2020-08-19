@@ -1,0 +1,8 @@
+language: python
+
+compiler:
+    - python2.7
+
+script:
+    - make run
+    - make cov
