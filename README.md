@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/tanay105/internet_relay_chat_bot.svg?branch=master)](https://travis-ci.com/tanay105/internet_relay_chat_bot)
+
 # internet_relay_chat_bot
 This is an internet relay chat bot which when attached to any channel on freenode.net, will reply to messages directed towards bot.
 
